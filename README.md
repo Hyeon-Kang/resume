@@ -19,6 +19,8 @@
 * 모바일 환경에서 Linux 기반 NAS 구축
 - - -
 #### Recommand Webpage
-[Marlin firmware](http://marlinfw.org/)"Mariln 공식 홈페이지"
-[Multiwii firmware](http://www.multiwii.com/)"Multiwii 공식 홈페이지"
+[Marlin firmware](http://marlinfw.org/)"Mariln 공식 홈페이지"  
+[Multiwii firmware](http://www.multiwii.com/)"Multiwii 공식 홈페이지"  
+
+![Alt text](/resume/aaa.jpg)
 
