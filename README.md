@@ -1,9 +1,9 @@
  Resume
 ===========
 
-> 이름 : 강 현  
-> 학교 : 한림대학교  
-> 학과 : 전자공학과
+> 이름 : 강 현 (Hyeon Kang)
+> 학교 : 한림대학교 (Hallym University)
+> 학과 : 전자공학과 (Elletronic Engineering)
 - - -
 
 #### Course
