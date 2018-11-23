@@ -41,5 +41,5 @@
 
 - - -
 #### Language
-![Alt text](/asdfaa.pn)
+![Alt text](/asdfaa.png)
 
