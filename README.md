@@ -40,5 +40,5 @@
 [Multiwii firmware](http://www.multiwii.com/)"Multiwii 공식 홈페이지"  
 
 #### Language
-![Alt text](/mylang.png)
+![Alt text](/mylang.jpg)
 
