@@ -3,11 +3,11 @@
 
 > 이름 : 강 현 (Hyeon Kang)  
 > 학교 : 한림대학교 (Hallym University)  
-> 학과 : 전자공학과 (Elletronic Engineering)  
+> 학과 : 전자공학과 (Eletronic Engineering)  
 - - -
 
 #### Course
-* Opensource Linux(Server&Desktop)
+* Open-Source Linux(Server&Desktop)
 * Java Language
 * C Language
 * Database(for Java JDBC)
